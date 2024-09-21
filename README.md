@@ -1,0 +1,1 @@
+This Currency Calculator allows users to quickly and easily convert between different currencies in real-time. With support for all major currencies and accurate exchange rates, it’s a handy tool for travelers, traders, or anyone dealing with multiple currencies. The user-friendly interface ensures seamless conversions with just a few clicks.
